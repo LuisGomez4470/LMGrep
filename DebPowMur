@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+
+<!--CSS for Buttons-->
+<style>
+.button {
+    background-color: #ffffff;
+    border: none;
+    color: blue;
+    padding: 7.5px 16px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+}
+
+.button1 {
+    background-color: #cc0000;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+}
+
+.button1:hover {
+    opacity: 0.7;
+}
+
+.fa {
+  padding: 10px;
+  font-size: 15px;
+  width: 15px;
+  text-align: center;
+  text-decoration: none;
+  margin: 5px 2px;
+  border-radius: 50%;
+}
+
+.fa:hover {
+    opacity: 0.7;
+}
+
+.fa-facebook {
+  background: #3B5998;
+  color: white;
+}
+
+.fa-twitter {
+  background: #55ACEE;
+  color: white;
+}
+</style>
+</head>
+
+<body>
+<!--Display buttons-->
+<a href="https://debbiemucarselpowell.com/"><img src="Logo_Mucarsel Powell.png" style="width:168px; height:168px; border:0;"</a>
+<a href="https://debbiemucarselpowell.com/"                                                                              class="button">Home</a>
+<a href="https://debbiemucarselpowell.com/meet-debbie/"                                                                  class="button">Meet Debbie</a>
+<a href="https://debbiemucarselpowell.com/issues/"                                                                       class="button">Priorities</a>
+<a href="https://debbiemucarselpowell.com/news/"                                                                         class="button">News</a>
+<a href="https://debbiemucarselpowell.com/endorsements/"                                                                 class="button">Endorsements</a>
+<a href="https://debbiemucarselpowell.com/voter-resources/"                                                              class="button">Vote</a>
+<a href="https://debbiemucarselpowell.com/get-involved/"                                                                 class="button">Volunteer</a>
+<a href="https://www.facebook.com/debbieforfl/"                                                                          class="fa fa-facebook"></a>
+<a href="https://twitter.com/debbieforfl"                                                                                class="fa fa-twitter"></a>
+<a href="https://secure.actblue.com/donate/dmpwebsitebutton?refcode=dmpwebsitebutton"                                    class="button1">Contribute</a>
+<a href="https://debbiemucarselpowell.com/es/"                                                                           class="button">En Español</a>
+
+<!--Display picture-->
+<img src="MucarselPowell.png" alt="DMP face" style="width:1387px;height:750px;">
+
+<!--Display video-->
+<h1 style="text-align:left;">My Story</h1>
+<video width="400" controls>
+  <source src="intro.mp4" type="video/mp4">
+</video>
+<p>
+Video courtesy of 
+  <a href="https://www.youtube.com/watch?v=vBTG2CUq72k" target="_blank">Debbie Mucarsel-Powel</a>.
+</p>
+
+</body>
+</html> 
