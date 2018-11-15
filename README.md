@@ -1,2 +1,0 @@
-# LMGrep
-projects
